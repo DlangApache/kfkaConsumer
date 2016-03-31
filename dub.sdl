@@ -1,6 +1,0 @@
-name "kfkaConsumer"
-description "A minimal D application."
-copyright "Copyright © 2016, dushibaiyu"
-authors "dushibaiyu"
-dependency "librdkafka" path="../librdkafka" 
-dependency "zookeeper" path="../zookeeper" 

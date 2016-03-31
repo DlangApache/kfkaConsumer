@@ -1,0 +1,10 @@
+{
+    "name": "kfkaConsumer", 
+    "description": "A minimal D application.", 
+    "copyright": "Copyright © 2016, dushibaiyu", 
+    "authors":[ "dushibaiyu" ],
+    "dependencies": {
+        "zookeeper": "~>0.1.0",
+        "librdkafka": "~>0.1.0"
+    }
+}
